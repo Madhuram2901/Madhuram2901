@@ -37,7 +37,8 @@ Passionate about building cool things with **Python, React, and VS Code extensio
 
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/madhurampatil/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/your-profile](https://www.instagram.com/madhuram_2901/?hl=en))  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/madhuram_2901/)
+ 
 
 ---
 
