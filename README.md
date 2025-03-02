@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Madhu  
+# 👋 Hey there! I'm Madhuram
 
 ![Banner](https://github.com/Madhuram2901/Madhuram2901/blob/main/Profile%20Banner/1372963%20(1).png?raw=true)  
 
