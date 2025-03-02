@@ -1,7 +1,9 @@
 # 👋 Hey there! I'm Madhu  
 
-**🚀 Developer | 🎨 Creative Thinker | 🔥 Tech Enthusiast**  
-Passionate about building cool things with **Python, React, and VS Code extensions.**  
+![Banner](https://your-image-link.com/banner.png)  
+
+Aspiring Computer Engineer | Python, Java, C++ | ML Enthusiast 🤖 | Flutter App Developer 📱 | GDGC Core Member (Android) | Android Club R&D Team Core Member| Building the Future, One Line Of Code at a Time! 💻  
+Passionate about building cool things with **Python, Flutter, Solidity and VS Code extensions.**  
 
 ---
 
@@ -35,6 +37,7 @@ Passionate about building cool things with **Python, React, and VS Code extensio
 
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/madhurampatil/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 
 ---
 
