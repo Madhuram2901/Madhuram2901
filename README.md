@@ -6,8 +6,8 @@ Passionate about building cool things with **Python, React, and VS Code extensio
 ---
 
 ## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Madhuram2901&show_icons=true&theme=radical" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhruam2901&theme=radical" height="160px"/>
 
 ---
 
@@ -20,10 +20,9 @@ Passionate about building cool things with **Python, React, and VS Code extensio
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/madhurampatil)   
 
 ---
 
 ## 🏆 GitHub Achievements  
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=Madhuram2901&theme=onedark" />
