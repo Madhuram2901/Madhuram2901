@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Madhuram2901/Madhuram2901/blob/main/Profile%20Banner/1372963%20(1).png?raw=true)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&width=435&lines=Hey+there!+I'm+Madhuram+🚀;A+Tech+Enthusiast+%7C+ML+%7C+Blockchain+%7C+Flutter;Building+Cool+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5733&width=435&lines=Hey+there!+I'm+Madhuram+🚀;ML+%7C+Blockchain+%7C+Flutter;Building+Cool+Things!)](https://git.io/typing-svg)
 
 **🚀 Developer | 🎨 Creative Thinker | 🔥 Tech Enthusiast**  
 Passionate about building cool things with **Python, React, and VS Code extensions.**  
