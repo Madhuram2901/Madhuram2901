@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Madhuram  
 
-![Banner](137296.jpg)  
+![Banner]([137296.jpg](https://github.com/Madhuram2901/Madhuram2901/blob/main/Profile%20Banner/1372963%20(1).png))  
 
 **🚀 Developer | 🎨 Creative Thinker | 🔥 Tech Enthusiast**  
 Passionate about building cool things with **Python, React, and VS Code extensions.**  
