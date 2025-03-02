@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Madhuram  
 
-![Banner](https://pictures.alphacoders.com/wallpapers/thumb-137296.jpg)  
+![Banner](137296.jpg)  
 
 **🚀 Developer | 🎨 Creative Thinker | 🔥 Tech Enthusiast**  
 Passionate about building cool things with **Python, React, and VS Code extensions.**  
